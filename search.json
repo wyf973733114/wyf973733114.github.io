@@ -1,1 +1,1 @@
-[{"title":"给 Apple WWDC Sessions 视频加上中文字幕","path":"/2023/10/05/Video-Download/","content":"简单记录一下如何使用工具自己生成有中文字幕的学习资料。 步骤及使用工具 获取M3U8视频链接 - 猫抓插件 使用链接下载视频 - N_m3u8DL-CLI + FFmpeg 获得视频、音频、字幕文件 字幕双语翻译 - 网易见外 视频文件和音频文件合成完整文件 - FFmpeg 带字幕播放 - PotPlayer"}]
+[{"title":"给 Apple WWDC Sessions 视频加上中文字幕","path":"/2023/10/05/Video-Download/","content":"简单记录一下如何使用工具生成带中文字幕的学习资料。 步骤及使用工具 获取M3U8视频链接 - 猫抓插件 使用链接下载视频 - N_m3u8DL-CLI + FFmpeg 获得视频、音频、字幕文件 字幕双语翻译 - 网易见外 视频文件和音频文件合成完整文件 - FFmpeg 带字幕播放 - PotPlayer","tags":["WWDC"]}]
