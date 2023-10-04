@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[给 Apple WWDC Sessions 视频加上中文字幕]]></title>
+      <url>/2023/10/05/Video-Download/</url>
+      <content type="html"><![CDATA[<p>简单记录一下如何使用工具自己生成有中文字幕的学习资料。</p>
+<h2 id="步骤及使用工具"><a href="#步骤及使用工具" class="headerlink" title="步骤及使用工具"></a>步骤及使用工具</h2><ul>
+<li>获取M3U8视频链接 - <code>猫抓</code>插件</li>
+<li>使用链接下载视频 - <code>N_m3u8DL-CLI</code> + <code>FFmpeg</code><ul>
+<li>获得视频、音频、字幕文件</li>
+</ul>
+</li>
+<li>字幕双语翻译 - <code>网易见外</code></li>
+<li>视频文件和音频文件合成完整文件 - <code>FFmpeg</code></li>
+<li>带字幕播放 - <code>PotPlayer</code></li>
+</ul>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
